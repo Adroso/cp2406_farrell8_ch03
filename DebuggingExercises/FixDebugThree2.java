@@ -11,7 +11,7 @@ public class FixDebugThree2
    private static void add(int a, int b)
    {
       System.out.println("The sum of " + a +
-         "and" + b + "is" + a + b);
+         "and" + b + "is" + (a + b));
    }
    private static void subtract(int a, int b)
    {
